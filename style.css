@@ -2,7 +2,9 @@ body {
     font-family: sans-serif;
 }
 header{
-    
+   background-color: aqua;
+  border-radius: 10px; 
+  border: 2px solid black; 
 }
 h1{
     border: 3px solid darkviolet;
